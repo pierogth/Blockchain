@@ -14,3 +14,5 @@ here are some tutorials and resources that can help you understand and use the c
     "Building a Decentralized Database with Blockstack" by Blockstack: https://blockstack.org/docs/get-started/decentralized-database
 
 These tutorials and resources should provide a good starting point for understanding and using the combination of ERC721 and ERC20, as well as creating decentralized databases using blockchain technology.
+
+https://www.aegishcgroup.com/campaigns/candidatura.asp?c=7813&seq_campaign=E26276D1C3F1472BB728B58A245AACEF&useLng=it&as_iframe=
